@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Can't Sleep Love",
+  "base_artist": "Pentatonix",
+  "createdAt": "2025-12-16T13:20:34.751824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/01_Can't_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Sleep Love (feat. Tink)",
+      "artist": "Pentatonix feat. Tink",
+      "has_synced": true,
+      "path": "select/02_Can't_Sleep_Love_(feat._Tink)_Pentatonix_feat._Tink.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix Feat. Tink",
+      "has_synced": true,
+      "path": "select/03_Can't_Sleep_Love_Pentatonix_Feat._Tink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/04_Can't_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Sleep Love (Feat. Tink)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/05_Can't_Sleep_Love_(Feat._Tink)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cant Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/06_Cant_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can’t Sleep Love",
+      "artist": "Pentatonix feat. Tink",
+      "has_synced": true,
+      "path": "select/07_Can’t_Sleep_Love_Pentatonix_feat._Tink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/08_Can't_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix; Tink",
+      "has_synced": true,
+      "path": "select/09_Can't_Sleep_Love_Pentatonix;_Tink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Sleep Love (Danny L Harle Remix)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/10_Can't_Sleep_Love_(Danny_L_Harle_Remix)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/11_Can't_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can’t Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/12_Can’t_Sleep_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix feat. Tink",
+      "has_synced": true,
+      "path": "select/13_Can't_Sleep_Love_Pentatonix_feat._Tink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Sleep Love (feat. Tink)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/14_Can't_Sleep_Love_(feat._Tink)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Spencer Kane",
+      "has_synced": true,
+      "path": "select/15_Can't_Sleep_Love_Spencer_Kane.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix; Kuk Harrell",
+      "has_synced": true,
+      "path": "select/16_Can't_Sleep_Love_Pentatonix;_Kuk_Harrell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Sleep Love",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Sleep_Love_Pentatonix.txt"
+    }
+  ]
+}
